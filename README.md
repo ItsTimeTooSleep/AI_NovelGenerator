@@ -109,7 +109,7 @@ Step 4: 章节定稿
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/Doctor-Shadow/AI_NovelGenerator.git
+git clone https://github.com/itstimetoosleep/AI_NovelGenerator.git
 cd AI_NovelGenerator
 ```
 

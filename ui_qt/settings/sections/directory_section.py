@@ -26,9 +26,9 @@ try:
     )
 except ImportError:
     __version__ = "1.0.0"
-    GITHUB_REPO_URL = "https://github.com/Doctor-Shadow/AI_NovelGenerator"
+    GITHUB_REPO_URL = "https://github.com/itstimetoosleep/AI_NovelGenerator"
     GITHUB_API_RELEASES_URL = (
-        "https://api.github.com/repos/Doctor-Shadow/AI_NovelGenerator/releases/latest"
+        "https://api.github.com/repos/itstimetoosleep/AI_NovelGenerator/releases/latest"
     )
     DONATION_URL = "https://afadian.com/"
     LICENSE_URL = f"{GITHUB_REPO_URL}/blob/main/LICENSE"

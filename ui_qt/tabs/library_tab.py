@@ -124,7 +124,7 @@ class CreateProjectDialog(MessageBoxBase):
         self.coverBtn.clicked.connect(self.browse_cover)
 
     def browse_cover(self):
-        dialog = CoverEditorDialog(self.coverPathEdit.text(), self)
+        dialog = CoverEditorDialog(self.coverPathEdit.text(), self.window())
         if dialog.exec():
             result = dialog.get_result()
             if result:

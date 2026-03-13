@@ -46,10 +46,10 @@ LEGAL_COPYRIGHT = (
     "Copyright (C) YILING0013 and contributors; Modifications (C) 2026 ItsTimeTooSleep"
 )
 
-GITHUB_REPO_URL = "https://github.com/Doctor-Shadow/AI_NovelGenerator"
+GITHUB_REPO_URL = "https://github.com/itstimetoosleep/AI_NovelGenerator"
 
 GITHUB_API_RELEASES_URL = (
-    "https://api.github.com/repos/Doctor-Shadow/AI_NovelGenerator/releases/latest"
+    "https://api.github.com/repos/itstimetoosleep/AI_NovelGenerator/releases/latest"
 )
 
 DONATION_URL = "https://afadian.com/"

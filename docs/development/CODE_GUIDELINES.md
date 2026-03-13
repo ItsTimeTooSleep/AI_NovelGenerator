@@ -20,7 +20,7 @@
 
 ### 1.5 常量命名
 - 使用全大写字母和下划线 (UPPER_SNAKE_CASE)
-- 例如: `GITHUB_REPO_URL = "https://github.com/Doctor-Shadow/AI_NovelGenerator"`
+- 例如: `GITHUB_REPO_URL = "https://github.com/itstimetoosleep/AI_NovelGenerator"`
 
 ## 2. 文件组织结构
 

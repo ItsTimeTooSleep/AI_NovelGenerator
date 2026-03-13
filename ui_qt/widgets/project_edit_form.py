@@ -261,7 +261,7 @@ class ProjectEditForm(QWidget):
         """打开封面编辑器对话框"""
         from .cover_editor import CoverEditorDialog
 
-        dialog = CoverEditorDialog(self.coverPathEdit.text(), self)
+        dialog = CoverEditorDialog(self.coverPathEdit.text(), self.window())
         if dialog.exec():
             result = dialog.get_result()
             if result:

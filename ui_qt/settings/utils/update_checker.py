@@ -24,7 +24,7 @@ try:
 except ImportError:
     __version__ = "1.0.0"
     GITHUB_API_RELEASES_URL = (
-        "https://api.github.com/repos/Doctor-Shadow/AI_NovelGenerator/releases/latest"
+        "https://api.github.com/repos/itstimetoosleep/AI_NovelGenerator/releases/latest"
     )
 
 
